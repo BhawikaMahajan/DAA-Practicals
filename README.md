@@ -3,7 +3,8 @@
 
 #### Submitted by : Bhawika Mahajan
 #### Roll No.     : 19/1408
-#### Course       : B.Sc(hons) Computer Science
+#### Course       : B.Sc (hons) Computer Science [Semester IV]
+
 
 ## CONTENTS :
 
